@@ -2,7 +2,7 @@
 
 This project is a prototype of an AI-driven tool designed to predict the 90-day deterioration risk for patients with chronic conditions like diabetes.
 
-**Live Demo:** [**Paste your live Streamlit app URL here!**](https://your-app-url.streamlit.app)
+**Live Demo:** [**Paste your live Streamlit app URL here!**](https://smcechroniccare.streamlit.app/)
 
 ---
 
