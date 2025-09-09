@@ -6,7 +6,7 @@ This project is a prototype of an AI-driven tool designed to predict the 90-day 
 
 ## Problem Statement
 
-Predicting when a chronic care patient may deteriorate is a major clinical challenge. This tool aims to provide an early warning system for care teams, allowing for proactive intervention to improve patient outcomes and reduce hospitalizations.
+Predicting when a chronic care patient may deteriorate is a major clinical challenge that this tool aims to provide an early warning system for care teams, allowing for proactive intervention to improve patient outcomes and reduce hospitalizations.
 
 ## The Solution
 
