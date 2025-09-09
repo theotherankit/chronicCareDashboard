@@ -1,10 +1,7 @@
 streamlit
 pandas
 xgboost
-scikit-learn==1.3.0
-shap==0.41.0
+scikit-learn
+shap
 numpy
 matplotlib
-pyarrow
-joblib
-numba==0.57.0
