@@ -19,6 +19,14 @@ This application uses a tuned XGBoost model trained on synthetic longitudinal pa
 * **Explainability:** Uses SHAP to provide both global (overall) and local (patient-specific) explanations for its predictions.
 * **Interactive Dashboard:** Built with Streamlit for a user-friendly clinical prototype.
 
+## Tech Stack
+* **Data Generation:** Synthea
+* **Data Analysis:** Pandas, NumPy
+* **Modeling:** Scikit-learn, XGBoost
+* **Explainability:** SHAP, Matplotlib
+* **Dashboard:** Streamlit
+* **Deployment:** Streamlit Community Cloud, GitHub
+
 ## How to Run Locally
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`
