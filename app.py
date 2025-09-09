@@ -15,7 +15,7 @@ st.set_page_config(
 @st.cache_data
 def load_data():
     # Load your final feature-engineered dataframe
-    df = pd.read_pickle("final_df_for_app.pkl")
+    df = pd.read_parquet("final_df_for_app.parquet")
     
     # We need a unique ID for each patient for the cohort view.
     # Let's create one based on the index for this example.
@@ -101,4 +101,5 @@ elif page == "Patient Detail View":
             st.image('shap_global.png')
 
             st.subheader("Recommended Next Action")
+
             st.success("✅ **Recommendation:** Schedule a telehealth follow-up to discuss recent vital sign instability.")
