@@ -99,6 +99,3 @@ elif page == "Patient Detail View":
         with col_right:
             st.subheader("Global Feature Importance")
             st.image('shap_global.png')
-
-            st.subheader("Recommended Next Action")
-            st.success("✅ **Recommendation:** Schedule a telehealth follow-up to discuss recent vital sign instability.")
